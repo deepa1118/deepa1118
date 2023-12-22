@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hello, I'm Deepa!
 
-<!--
-**deepa1118/deepa1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
+- 💼 Previously worked at Cognizant as a Programmer Analyst in Pega for 1 year 8 months.
+- 🌐 Aspiring to contribute to a forward-thinking team and make a positive impact.
+- 🌱 Currently expanding my expertise in advanced technologies.
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- 🐍 Python | Django
+- 🎓 SQL
+- 🌐 Basics of HTML, CSS, JavaScript
+- 🚀 ServiceNow
+- 🔄 Pega
+- 🌟 GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I'm passionate about coding, problem-solving, and embracing new challenges. My goal is to create innovative solutions and contribute to projects that make a difference.
+
+📫 Reach me at [deepap667@gmail.com] | [www.linkedin.com/in/deepa-p-254ab21a7] 
